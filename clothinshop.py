@@ -37,4 +37,4 @@ if another_order == "yes":
 if order_total > 0:
     print(f"\nTotal amount to pay: {order_total} BDT")
 else:
-    print("\nNo items were purchased. Thank you for visiting AARONG!")
+    print("\nNo items were purchased. Thank you for visiting Filoix!")
